@@ -1,0 +1,10 @@
+/home/satoshi/dev/jetServer/bin/Debug/netcoreapp2.0/jetServer.deps.json
+/home/satoshi/dev/jetServer/bin/Debug/netcoreapp2.0/jetServer.runtimeconfig.json
+/home/satoshi/dev/jetServer/bin/Debug/netcoreapp2.0/jetServer.runtimeconfig.dev.json
+/home/satoshi/dev/jetServer/bin/Debug/netcoreapp2.0/jetServer.dll
+/home/satoshi/dev/jetServer/bin/Debug/netcoreapp2.0/jetServer.pdb
+/home/satoshi/dev/jetServer/obj/Debug/netcoreapp2.0/jetServer.csproj.CoreCompileInputs.cache
+/home/satoshi/dev/jetServer/obj/Debug/netcoreapp2.0/jetServer.AssemblyInfoInputs.cache
+/home/satoshi/dev/jetServer/obj/Debug/netcoreapp2.0/jetServer.AssemblyInfo.cs
+/home/satoshi/dev/jetServer/obj/Debug/netcoreapp2.0/jetServer.dll
+/home/satoshi/dev/jetServer/obj/Debug/netcoreapp2.0/jetServer.pdb
