@@ -39,7 +39,7 @@ public class Log
         var logType = getTypeMessage(type);
         var time = DateTime.Now.ToShortTimeString();
 
-        Console.WriteLine(String.Format("{0} [{1}] {2}", logType, time, message));
+        Console.WriteLine(String.Format("{0} [{1}] {2}", time, logType, message));
         Console.ForegroundColor = defaultColor;
     }
 
