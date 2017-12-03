@@ -3,13 +3,17 @@ using System.Net;
 
 public class Util
 {
-    public static string GetIP(EndPoint endPoint)
-    {
-        return ((IPEndPoint)endPoint).Address.ToString();
-    } 
+    /// <summary>
+    /// Returns IP as String
+    /// </summary>
+    /// <param name="endPoint">EndPoint</param>
+    /// <returns>IP as String</returns>
+    public static string GetIP(EndPoint endPoint) => ((IPEndPoint)endPoint).Address.ToString();
 
-    public static string GetIP(IPEndPoint ipEndPoint)
-    {
-        return ipEndPoint.Address.ToString();
-    }   
+    /// <summary>
+    /// Returns IP as String
+    /// </summary>
+    /// <param name="ipEndPoint">IPEndPoint</param>
+    /// <returns>IP as String</returns>
+    public static string GetIP(IPEndPoint ipEndPoint) => ipEndPoint.Address.ToString();
 }
