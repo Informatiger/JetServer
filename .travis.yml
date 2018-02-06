@@ -2,8 +2,8 @@ language: csharp
 mono: none
 dotnet: 1.1.5
 install:
-  - nuget restore
-  - nuget install simpletcp
+  - dotnet restore
+  - dotnet install simpletcp
 script:
  - dotnet restore
  - make
