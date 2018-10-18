@@ -1,5 +1,5 @@
 # This repo is archived
-## See the new repo at (https://gitlab.com/informatiger/JetServer)[https://gitlab.com/informatiger/JetServer]
+## See the new repo at https://gitlab.com/informatiger/JetServer
 
 ---
 
